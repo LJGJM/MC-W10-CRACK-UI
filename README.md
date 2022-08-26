@@ -5,3 +5,5 @@ This is a MCBE crack instead of MCenters. Not tested on windows 11. only works o
 This is compatible with clients, just name the client: Client.exe
 
 You will need to run "disable clipSVC.bat" as TrustedInstaller, this makes clipSVC not start until you disable the crack
+
+Run "Minecraft Crack.bat" to view the crack UI of MC W10
