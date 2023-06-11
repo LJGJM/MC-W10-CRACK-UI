@@ -9,3 +9,6 @@ You will need to run "disable clipSVC.bat" as TrustedInstaller, this makes clipS
 Run "Minecraft Crack.bat" to view the crack UI of MC W10
 
 This has not been tested with the 32bit Or betas/previews
+
+
+******************PATCHED************************************
